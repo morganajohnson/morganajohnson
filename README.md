@@ -44,30 +44,30 @@ Current Position: Microsft Operations Coordinator At Pax8
     
 **Skills and Certifications**: 
 
-  Skilled in Microsoft Office 2019 including Excel, Microsoft PowerPoint, Microsoft Word, SQL, Access, Python, JMP, and R. Strong research and writing skills including scientific and data based writing.
+ Skilled in Microsoft Office 2019 including Excel, Microsoft PowerPoint, Microsoft Word, SQL, Access, Python, JMP, and R. Strong research and writing skills including scientific and data based writing.
 
 **Soft Skills**:
-Skilled in time manaemgent and cross funcitonal team coordiantion. Great communication skills both verbally and written across multiple platforms including Teams, Wrike and Outlook Suites. 
+Skilled in time management and cross-functional team coordination. Great communication skills both verbally and written across multiple platforms including Teams, Wrike, and Outlook Suites. 
 
 **Hobbies**:
-I am extermely passionate about the outdoors, I love to hike and ski. Additionally, I enjoy traveling( I have been to over 10 countries) and volunteering.  
+I am extremely passionate about the outdoors, I love to hike and ski. Additionally, I enjoy traveling( I have been to over 10 countries) and volunteering.  
 
 **Relevant Class Curriculum:**
-- DataWarehousing and Business Intelligence
-- Data Mining and Visulaization
+- Data warehousing and Business Intelligence
+- Data Mining and Visualization
 - Enterprise Information Management 
 - Foundations of Information Management 
 - Automating Business Processes
-- Leading High Preformance Organizations
+- Leading High Performance Organizations
 - Complex Data Analytics
 - Business Policy and Strategy 
-- Optimixation Modeling 
-- Endocriniology
+- Optimization Modeling 
+- Endocrinology
 - Evolutionary Biology
 - Cell Structure and Function
 - Evolution Heredity and Biological Diversity
 - Genetics
-- Exercise Physiology
+- Exercise Physiology 
 
 **Contact Me**
 
@@ -84,7 +84,7 @@ I’m interested in in opportunities focused in Technology, Data Analysis, or He
 
 ## **Data Analyitcs Examples:**
 
-The following repository contains examples of proejcts completed in relevant classes. These projects utilize differetn programs including JMP, Python, Access, Visual Studio, and SSMS. Some of the data used in these projects has been created from fictional repositorsys, where as some of the data has been collected from reliable sources and can be used to make reasonable and educated business decisions. 
+The following repository contains examples of projects completed in relevant classes. These projects utilize different programs including JMP, Python, Access, Visual Studio, and SSMS. Some of the data used in these projects have been created from fictional repositories, whereas some of the data has been collected from reliable sources and can be used to make reasonable and educated business decisions. 
 https://github.com/morganajohnson/Projects
 
 

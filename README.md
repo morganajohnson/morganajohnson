@@ -83,6 +83,7 @@ I’m interested in in opportunities focused in Technology, Data Analysis, or He
 
 
 ## **Data Analyitcs Examples:**
+https://github.com/morganajohnson/Projects
 
 Think link to a directory/repository for a project
 Summary information about the scope, technique, and outcome

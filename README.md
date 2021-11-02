@@ -83,10 +83,8 @@ I’m interested in in opportunities focused in Technology, Data Analysis, or He
 
 
 ## **Data Analyitcs Examples:**
+
+The following repository contains examples of proejcts completed in relevant classes. These projects utilize differetn programs including JMP, Python, Access, Visual Studio, and SSMS. Some of the data used in these projects has been created from fictional repositorsys, where as some of the data has been collected from reliable sources and can be used to make reasonable and educated business decisions. 
 https://github.com/morganajohnson/Projects
 
-Think link to a directory/repository for a project
-Summary information about the scope, technique, and outcome
-Focus on how the work leads to a business decision (in theory)
-Maybe some images of the project (ERD, Picture of dashboard, code snippet)
-Working code if that makes sense
+
